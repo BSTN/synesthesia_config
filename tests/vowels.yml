@@ -17,10 +17,70 @@ help:
   se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
 sets:
   set1:
-    [
-      "04.mp3","01.mp3","03.mp3","10.mp3","16.mp3","11.mp3","04.mp3","10.mp3","16.mp3","06.mp3","08.mp3","03.mp3","07.mp3","13.mp3","08.mp3","13.mp3","14.mp3","11.mp3","07.mp3","14.mp3","11.mp3","01.mp3","10.mp3","07.mp3","06.mp3","13.mp3","16.mp3","14.mp3","06.mp3","04.mp3","01.mp3","08.mp3","03.mp3"
-    ]
+    - klinker_rsa/04.mp3
+    - klinker_rsa/01.mp3
+    - klinker_rsa/03.mp3
+    - klinker_rsa/10.mp3
+    - klinker_rsa/16.mp3
+    - klinker_rsa/11.mp3
+    - klinker_rsa/04.mp3
+    - klinker_rsa/10.mp3
+    - klinker_rsa/16.mp3
+    - klinker_rsa/06.mp3
+    - klinker_rsa/08.mp3
+    - klinker_rsa/03.mp3
+    - klinker_rsa/07.mp3
+    - klinker_rsa/13.mp3
+    - klinker_rsa/08.mp3
+    - klinker_rsa/13.mp3
+    - klinker_rsa/14.mp3
+    - klinker_rsa/11.mp3
+    - klinker_rsa/07.mp3
+    - klinker_rsa/14.mp3
+    - klinker_rsa/11.mp3
+    - klinker_rsa/01.mp3
+    - klinker_rsa/10.mp3
+    - klinker_rsa/07.mp3
+    - klinker_rsa/06.mp3
+    - klinker_rsa/13.mp3
+    - klinker_rsa/16.mp3
+    - klinker_rsa/14.mp3
+    - klinker_rsa/06.mp3
+    - klinker_rsa/04.mp3
+    - klinker_rsa/01.mp3
+    - klinker_rsa/08.mp3
+    - klinker_rsa/03.mp3    
   set2:
-    [
-      "10.mp3","11.mp3","04.mp3","03.mp3","16.mp3","07.mp3","10.mp3","06.mp3","14.mp3","08.mp3","11.mp3","04.mp3","06.mp3","03.mp3","08.mp3","07.mp3","01.mp3","16.mp3","10.mp3","13.mp3","03.mp3","07.mp3","14.mp3","08.mp3","13.mp3","04.mp3","01.mp3","16.mp3","06.mp3","01.mp3","13.mp3","14.mp3","11.mp3"
-      ]
+    - klinkers_rsa/10.mp3
+    - klinkers_rsa/11.mp3
+    - klinkers_rsa/04.mp3
+    - klinkers_rsa/03.mp3
+    - klinkers_rsa/16.mp3
+    - klinkers_rsa/07.mp3
+    - klinkers_rsa/10.mp3
+    - klinkers_rsa/06.mp3
+    - klinkers_rsa/14.mp3
+    - klinkers_rsa/08.mp3
+    - klinkers_rsa/11.mp3
+    - klinkers_rsa/04.mp3
+    - klinkers_rsa/06.mp3
+    - klinkers_rsa/03.mp3
+    - klinkers_rsa/08.mp3
+    - klinkers_rsa/07.mp3
+    - klinkers_rsa/01.mp3
+    - klinkers_rsa/16.mp3
+    - klinkers_rsa/10.mp3
+    - klinkers_rsa/13.mp3
+    - klinkers_rsa/03.mp3
+    - klinkers_rsa/07.mp3
+    - klinkers_rsa/14.mp3
+    - klinkers_rsa/08.mp3
+    - klinkers_rsa/13.mp3
+    - klinkers_rsa/04.mp3
+    - klinkers_rsa/01.mp3
+    - klinkers_rsa/16.mp3
+    - klinkers_rsa/06.mp3
+    - klinkers_rsa/01.mp3
+    - klinkers_rsa/13.mp3
+    - klinkers_rsa/14.mp3
+    - klinkers_rsa/11.mp3

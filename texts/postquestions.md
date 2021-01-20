@@ -1,3 +1,5 @@
+# Nog een paar slotvragen:
+
 <question type="likert" name="pq1">
   <slot>1. Terwijl ik het experiment deed, had ik het gevoel dat ik zeker wist wat de kleur van een letter of cijfer moest zijn.</slot>
 </question>

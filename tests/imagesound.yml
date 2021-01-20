@@ -1,0 +1,38 @@
+public: yes
+name: 
+  nl: beeld en geluid
+  en: image and sound
+# pretest:
+#   - beeldgeluid.intro
+posttest:
+  - postquestions
+type: imagesound
+selector: colorpicker
+continue: /postquestions
+cutoff: 1.43
+help:
+  nl: Probeer instinctief de afbeelding te kiezen die je associeert of het beste vindt passen bij het geluid hierboven.
+  en: Try to instinctively choose the image you associate, or feel fits best with the sound above.
+  se: Försök att instinktivt välja den bild du associerar, eller känn att den passar bäst med ljudet ovan.
+sets:
+  set1:
+    0:
+      im1: "/boubakiki/Pointy101.png"
+      im2: "/boubakiki/Round105.png"
+      sound: "/boubakiki/A01.mp3"
+    1:
+      im1: "/boubakiki/Pointy105.png"
+      im2: "/boubakiki/Round107.png"
+      sound: "/boubakiki/A02.mp3"
+    2:
+      im1: "/boubakiki/Pointy109.png"
+      im2: "/boubakiki/Round110.png"
+      sound: "/boubakiki/A03.mp3"
+    3:
+      im1: "/boubakiki/Pointy110.png"
+      im2: "/boubakiki/Round111.png"
+      sound: "/boubakiki/A04.mp3"
+    4:
+      im1: "/boubakiki/Pointy112.png"
+      im2: "/boubakiki/Round114.png"
+      sound: "/boubakiki/A05.mp3"

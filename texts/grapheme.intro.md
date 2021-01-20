@@ -1,4 +1,4 @@
-# grafemen test
+# Grafemen Test
 
 Hier onderzoeken we sequentie-kleursynthese. Het is een fenomeen
 waarbij je bijvoorbeeld automatisch verbinding maakt tussen letters, cijfers
