@@ -1,6 +1,6 @@
-# test je geluidsinstellingen eerst:
+# Test je geluidsinstellingen:
 
-Klik op de play knop hieronder om te testen of je geluid werkt:
+Klik op de knop hieronder om te testen of je geluid werkt:
 
 <test-sound file='/boubakiki/A01.mp3' />
 

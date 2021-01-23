@@ -9,7 +9,6 @@ posttest:
   - postquestions
 type: grapheme
 selector: colorpicker
-continue: /postquestions
 cutoff: 1.43
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het woord hierboven.
@@ -17,23 +16,21 @@ help:
   se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
 sets:
   set1:
-    [
-      "A",
-      "B",
-      "t:wednesday",
-      "D",
-      "E",
-      "A",
-      "B",
-      "t:wednesday",
-      "D",
-      "E",
-      "A",
-      "B",
-      "t:wednesday",
-      "D",
-      "E",
-    ]
+    - A
+    - B
+    - t:wednesday
+    - D
+    - E
+    - A
+    - B
+    - t:wednesday
+    - D
+    - E
+    - A
+    - B
+    - t:wednesday
+    - D
+    - E
   set2:
     ["I", "O", "A", "B", "Q", "I", "O", "A", "B", "Q", "I", "O", "A", "B", "Q"]
   set3:

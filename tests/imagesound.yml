@@ -2,13 +2,12 @@ public: yes
 name: 
   nl: beeld en geluid
   en: image and sound
-# pretest:
-#   - beeldgeluid.intro
+pretest:
+  - testaudio
 posttest:
   - postquestions
 type: imagesound
 selector: colorpicker
-continue: /postquestions
 cutoff: 1.43
 help:
   nl: Probeer instinctief de afbeelding te kiezen die je associeert of het beste vindt passen bij het geluid hierboven.
