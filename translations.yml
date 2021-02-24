@@ -23,8 +23,8 @@ nocolor:
   en: no color
   se: ingen färg
 novalue:
-  nl: niet genoeg data
-  en: no value
+  nl: Niet genoeg data
+  en: Not enough data
 ok:
   nl: ok
   en: ok
@@ -52,3 +52,9 @@ saturday:
 sunday:
   nl: zondag
   en: sunday
+compare:
+  nl: vergelijk
+  en: compare
+likert:
+  nl: Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
+  en: Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.

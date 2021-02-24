@@ -1,5 +1,5 @@
 public: yes
-name: 
+name:
   nl: klinkers
   en: vowels
   se: klinkers
@@ -7,10 +7,12 @@ pretest:
   - testaudio
 posttest:
   - postquestions
+results: results
 type: audio
 selector: colorpicker
 continue: /postquestions
 cutoff: 1.43
+likert: true
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het woord hierboven.
   en: Try to instinctively choose the color you associate, or feel fits best with the character/word above.
@@ -49,7 +51,7 @@ sets:
     - klinkers_rsa/04.mp3
     - klinkers_rsa/01.mp3
     - klinkers_rsa/08.mp3
-    - klinkers_rsa/03.mp3    
+    - klinkers_rsa/03.mp3
   set2:
     - klinkers_rsa/10.mp3
     - klinkers_rsa/11.mp3

@@ -1,14 +1,16 @@
 public: yes
-name: 
+name:
   nl: beeld en geluid
   en: image and sound
 pretest:
   - testaudio
 posttest:
   - postquestions
+results: results
 type: imagesound
 selector: colorpicker
 cutoff: 1.43
+likert: false
 help:
   nl: Probeer instinctief de afbeelding te kiezen die je associeert of het beste vindt passen bij het geluid hierboven.
   en: Try to instinctively choose the image you associate, or feel fits best with the sound above.
