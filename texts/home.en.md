@@ -1,6 +1,6 @@
 People with synesthesia have very strong associations that do not change. Do you also want to know if you have synesthesia?
 
-<router-link to="/tests" class="link">Take the tests</router-link>
+<startbutton><slot>Take the tests</slot></startbutton>
 
 <!--
 Heb je een van de tests al eerder gedaan en de gegevens opgeslagen? Bekijk je resultaten dan hier:

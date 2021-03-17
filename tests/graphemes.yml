@@ -1,12 +1,11 @@
 public: yes
 name:
   nl: grafeem-kleur
-  en: graphemes
-  se: graphemes
+  en: grapheme-color
+  se: grapheme-color
 pretest:
   - grapheme.intro
-posttest:
-  - postquestions
+posttest: false
 results: results
 type: grapheme
 selector: colorpicker

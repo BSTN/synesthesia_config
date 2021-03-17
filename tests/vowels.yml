@@ -5,8 +5,7 @@ name:
   se: klinkers
 pretest:
   - testaudio
-posttest:
-  - postquestions
+posttest: false
 results: results
 type: audio
 selector: colorpicker

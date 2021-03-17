@@ -53,8 +53,17 @@ sunday:
   nl: zondag
   en: sunday
 compare:
-  nl: vergelijk
-  en: compare
+  nl: deel & vergelijk
+  en: share & compare
+results:
+  nl: "resultaten"
+  en: "results"
 likert:
   nl: Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
   en: Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
+notdone:
+  nl: Je hebt deze test nog niet gedaan, klik hier om deze test nu te doen!
+  en: You haven't started or finished this test, click here to do it now!
+sorrynotatest:
+  nl: Sorry, deze test bestaat niet (meer). Klik op "ok" om naar het overzicht te gaan.
+  en: Sorry, this test does not exist (anymore). Click ok to see the overview.

@@ -23,5 +23,3 @@
 <question type="likert" name="pq6">
   <slot>6. Ik heb altijd dezelfde kleuren geassocieerd met letters en cijfers, en deze lijken nooit te veranderen.</slot>
 </question>
-
-<submit to="nextPage" enabled="pq1,pq2,pq3,pq4,pq5,pq6"></submit>

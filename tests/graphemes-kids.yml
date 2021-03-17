@@ -1,18 +1,19 @@
 public: yes
 name:
-  nl: grafemen
-  en: graphemes
-  se: graphemes
-introduction: yes
+  nl: grafemen (kinderen)
+  en: graphemes (kids)
+  se: graphemes (kids)
+pretest:
+  - grapheme.intro
+posttest: false
+results: results
 type: grapheme
 selector: colorgrid
-continue: /postquestions
-cutoff: 1
-results: results
+cutoff: 1.43
 likert: true
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het woord hierboven.
-  en: Try to8 instinctively choose the color you associate, or feel fits best with the character/word above.
+  en: Try to instinctively choose the color you associate, or feel fits best with the character/word above.
   se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
 sets:
   set1:

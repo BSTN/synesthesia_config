@@ -4,13 +4,12 @@ name:
   en: image and sound
 pretest:
   - testaudio
-posttest:
-  - postquestions
+posttest: false
 results: results
 type: imagesound
 selector: colorpicker
 cutoff: 1.43
-likert: false
+likert: true
 help:
   nl: Probeer instinctief de afbeelding te kiezen die je associeert of het beste vindt passen bij het geluid hierboven.
   en: Try to instinctively choose the image you associate, or feel fits best with the sound above.
@@ -37,3 +36,11 @@ sets:
       im1: "/boubakiki/Pointy112.png"
       im2: "/boubakiki/Round114.png"
       sound: "/boubakiki/A05.mp3"
+    5:
+      im1: "/boubakiki/Round105.png"
+      im2: "/boubakiki/Pointy101.png"
+      sound: "/boubakiki/A01.mp3"
+    6:
+      im1: "/boubakiki/Pointy101.png"
+      im2: "/boubakiki/Round105.png"
+      sound: "/boubakiki/A01.mp3"
