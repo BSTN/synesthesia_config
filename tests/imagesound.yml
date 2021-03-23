@@ -1,11 +1,9 @@
-public: yes
 name:
   nl: beeld en geluid
   en: image and sound
 pretest:
   - testaudio
 posttest: false
-results: results
 type: imagesound
 selector: colorpicker
 cutoff: 1.43
@@ -14,6 +12,9 @@ help:
   nl: Probeer instinctief de afbeelding te kiezen die je associeert of het beste vindt passen bij het geluid hierboven.
   en: Try to instinctively choose the image you associate, or feel fits best with the sound above.
   se: Försök att instinktivt välja den bild du associerar, eller känn att den passar bäst med ljudet ovan.
+resulttext: 
+  nl: Letter-kleur of cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
 sets:
   set1:
     0:

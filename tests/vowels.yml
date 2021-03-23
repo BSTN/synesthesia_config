@@ -1,4 +1,3 @@
-public: yes
 name:
   nl: klinkers
   en: vowels
@@ -6,16 +5,17 @@ name:
 pretest:
   - testaudio
 posttest: false
-results: results
 type: audio
 selector: colorpicker
-continue: /postquestions
 cutoff: 1.43
 likert: true
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het woord hierboven.
   en: Try to instinctively choose the color you associate, or feel fits best with the character/word above.
   se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Letter-kleur of cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
 sets:
   set1:
     - klinkers_rsa/04.mp3

@@ -4,6 +4,7 @@ The test repository:
 [https://github.com/BSTN/synesthesia](https://github.com/BSTN/synesthesia)
 
 ## File structure:
+
 ```
 /audio
   - audiofile.mp3
@@ -26,6 +27,7 @@ The test repository:
 ```
 
 ## config.yml example
+
 ```
 languages:
   nl: Nederlands
@@ -36,6 +38,7 @@ animation: true
 ```
 
 ## translations.yml example
+
 ```
 about:
   nl: Lees meer
@@ -43,11 +46,13 @@ about:
   se: handla om
 ```
 
-
 ## test.yml example
+
+See [tests/README.MD](tests/README.MD) for detailed reference.
+
 ```
 public: yes
-name: 
+name:
   nl: grafeem-kleur
   en: graphemes
   se: graphemes
@@ -66,7 +71,6 @@ sets:
   set1: ["list","of","items"]
   set2: ...
   set3: ...
-
 ```
 
 ## text / markdown extra functionality
@@ -77,20 +81,24 @@ sets:
 <tests list="graphemes,graphemes-kids,vowels"></tests>
 ```
 
-### Next page 
+### Next page
+
 For inside a test: pretest or posttest
+
 ```
 <nextbutton />
 ```
 
 ### Insert extra custom questions
+
 **name:** unique name for database
-**types:** 
-  - likert
-  - likert-reverse
+**types:**
+
+- likert
+- likert-reverse
+
 ```
 <question type="likert" name="pq3">
   <slot>3. Altijd wanneer ik letters of cijfers zie of eraan denk (zwart tegen een witte achtergrond), ervaar ik automatisch een andere kleur voor de letter of het cijfer (bijv. rood).</slot>
 </question>
 ```
-
