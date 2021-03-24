@@ -83,22 +83,8 @@ sets:
 
 ### Next page
 
-For inside a test: pretest or posttest
+Useful inside a test (pretest or posttest):
 
 ```
 <nextbutton />
-```
-
-### Insert extra custom questions
-
-**name:** unique name for database
-**types:**
-
-- likert
-- likert-reverse
-
-```
-<question type="likert" name="pq3">
-  <slot>3. Altijd wanneer ik letters of cijfers zie of eraan denk (zwart tegen een witte achtergrond), ervaar ik automatisch een andere kleur voor de letter of het cijfer (bijv. rood).</slot>
-</question>
 ```
