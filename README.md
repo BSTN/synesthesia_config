@@ -1,7 +1,6 @@
 # Synesthesia Tests Configuration Files
 
-The test repository:
-[https://github.com/BSTN/synesthesia](https://github.com/BSTN/synesthesia)
+Here are some references/instructions for the configuration of the synesthesia tests.
 
 ## File structure:
 
@@ -88,3 +87,7 @@ Useful inside a test (pretest or posttest):
 ```
 <nextbutton />
 ```
+
+### The test repository:
+
+[https://github.com/BSTN/synesthesia](https://github.com/BSTN/synesthesia) (please contact me for access)
