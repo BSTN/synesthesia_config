@@ -58,6 +58,18 @@ compare:
 myresults:
   nl: "mijn resultaten"
   en: "my results"
+yourscorethistest:
+  nl: "Jouw score voor deze test:"
+  en: "Your score for this test:"
+sharedscorethistest:
+  nl: "De score van {name} voor deze test:"
+  en: "The score of {name} for this test:"
+yourscorelikerttest:
+  nl: "Jouw score voor de extra vragenlijst:"
+  en: "Your score for the extra questions:"
+sharedscorelikerttest:
+  nl: "De score van {name} voor de extra vragenlijst:"
+  en: "The score of {name} for the extra questions:"
 likert:
   nl: In de vragenlijst gaf je aan of je het eens was met stellingen over synesthesie. Des te hoger je scoren, des te meer je antwoorden passen bij synesthesie. Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
   en: In de vragenlijst gaf je aan of je het eens was met stellingen over synesthesie. Des te hoger je scoren, des te meer je antwoorden passen bij synesthesie. Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
