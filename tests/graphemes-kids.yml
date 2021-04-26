@@ -1,6 +1,6 @@
 name:
-  nl: grafemen kids
-  en: graphemes kids
+  nl: letters en cijfers kids
+  en: letters and numbers kids
   se: graphemes kids
 pretest:
   - grapheme.intro
