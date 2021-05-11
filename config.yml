@@ -4,3 +4,4 @@ languages:
   # se: Svenska
 defaultLanguage: nl
 animation: true
+storeall: false
