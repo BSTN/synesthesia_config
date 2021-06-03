@@ -3,5 +3,5 @@ languages:
   en: English
   # se: Svenska
 defaultLanguage: nl
-animation: true
+animation: false
 storeall: false
