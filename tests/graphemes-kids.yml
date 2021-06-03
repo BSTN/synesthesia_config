@@ -7,7 +7,7 @@ pretest:
 posttest: false
 type: grapheme
 selector: colorgrid
-cutoff: 0.8
+cutoff: 15
 likert: true
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het cijfer hierboven.
