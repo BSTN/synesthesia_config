@@ -72,7 +72,10 @@ sharedscorelikerttest:
   en: "The score of {name} for the extra questions:"
 likert:
   nl: In de vragenlijst gaf je aan of je het eens was met stellingen over synesthesie. Des te hoger je scoren, des te meer je antwoorden passen bij synesthesie. Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
-  en: In de vragenlijst gaf je aan of je het eens was met stellingen over synesthesie. Des te hoger je scoren, des te meer je antwoorden passen bij synesthesie. Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synesthesie hebt.
+  en: In de vragenlijst gaf je aan of je het eens was met stellingen over synesthesie. Des te hoger je scoren, des te meer je antwoorden passen bij synesthesie. Als je zowel op de test als op de vragenlijst in de range scoort die past bij synesthesie, zijn we er vrij zeker van dat je synestheie hebt.
+yourname:
+  nl: "Voer hier je naam in:"
+  en: "Enter your name here:"
 done: 
   nl: 'bekijk resultaat'
   en: 'see result'
@@ -92,7 +95,7 @@ selecttocompare:
   nl: Selecteer een profiel om mee te vergelijken
   en: Select a profile to compare with
 fillcodehere:
-  nl: "Vul hier de code in;"
+  nl: "Vul hier de code in:"
   en: "Add code here:"
 giveprofilename:
   nl: "Geef dit profiel een naam (alleen voor jou zichtbaar):"
