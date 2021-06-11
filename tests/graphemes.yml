@@ -9,7 +9,6 @@ type: grapheme
 selector: colorpicker
 cutoff: 1.43
 likert: true
-likertmarkdown: "postquestions"
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het cijfer hierboven.
   en: Try to instinctively choose the color you associate, or feel fits best with the character above.
