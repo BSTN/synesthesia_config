@@ -97,6 +97,9 @@ selecttocompare:
 fillcodehere:
   nl: "Vul hier de code in:"
   en: "Add code here:"
+importfile:
+  nl: "of upload een bestand hier:"
+  en: "or upload a file here:"
 giveprofilename:
   nl: "Geef dit profiel een naam (alleen voor jou zichtbaar):"
   en: "Give it a naam (only visible to you):"
