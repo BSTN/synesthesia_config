@@ -8,7 +8,7 @@ posttest: false
 type: grapheme
 selector: colorpicker
 cutoff: 1.0
-likert: true
+likert: false
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij het woord hierboven.
   en: Try to instinctively choose the color you associate, or feel fits best with the word above.
