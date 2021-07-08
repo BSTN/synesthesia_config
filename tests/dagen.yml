@@ -3,7 +3,7 @@ name:
   en: Days of the week - colour
   se: Days
 pretest:
-  - grapheme.intro
+  - dagen.intro
 posttest: false
 type: grapheme
 selector: colorpicker
