@@ -1,5 +1,5 @@
 name:
-  nl: klinkers
+  nl: Klinkers-Kleuren
   en: vowels
   se: klinkers
 pretest:
@@ -7,7 +7,7 @@ pretest:
 posttest: false
 type: audio
 selector: colorpicker
-cutoff: 1.43
+cutoff: 1.00
 likert: false
 help:
   nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de klank die je hoort.
