@@ -1,0 +1,24 @@
+name:
+  nl: cijfer-kleur
+  en: number-color
+  se: number-color
+pretest:
+  - cijfers.intro
+posttest: false
+type: grapheme
+selector: colorpicker
+cutoff: 1.00
+likert: true
+help:
+  nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij het cijfer hierboven.
+  en: Try to instinctively choose the color you associate, or feel fits best with the character above.
+  se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
+sets:
+  set1:
+    ["3", "0", "6", "2", "1", "7", "3", "5", "9", "8", "2", "0", "4", "1", "8", "6", "5", "3", "7", "0", "9", "2", "5", "4", "8", "1", "9", "6", "7", "4"]
+  set2:
+    ["8", "1", "4", "3", "0", "6", "2", "1", "7", "7", "0", "9", "9", "8", "2", "0", "4", "1", "8", "6", "5", "3", "9", "6", "7", "2", "5", "4", "3", "5"]
+  
