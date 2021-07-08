@@ -1,6 +1,6 @@
 name:
-  nl: Dagen van de week
-  en: Days of the week
+  nl: Dagen van de week -kleur
+  en: Days of the week - colour
   se: Days
 pretest:
   - grapheme.intro
