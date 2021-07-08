@@ -3,7 +3,7 @@ name:
   en: letters and numbers kids
   se: graphemes kids
 pretest:
-  - grapheme.intro
+  - graphemes-kids.intro
 posttest: false
 type: grapheme
 selector: colorgrid
