@@ -1,0 +1,24 @@
+name:
+  nl: dagen van de week kids
+  en: days of the week kids
+  se: days kids
+pretest:
+  - days-kids.intro
+posttest: false
+type: grapheme
+selector: colorpicker
+cutoff: 1.00
+likert: true
+help:
+  nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij het woord hierboven.
+  en: Try to instinctively choose the color you associate, or feel fits best with the word above.
+  se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Dagen-kleur synestheten zien altijd precies dezelfde kleur bij een dag van de week. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een dag van de week. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
+sets:
+  set1:
+    ["zondag", "vrijdag", "donderdag", "maandag", "zaterdag", "woensdag", "dinsdag", "zondag", "zaterdag", "dinsdag", "woensdag", "donderdag", "maandag", "vrijdag", "donderdag", "maandag", "vrijdag", "woensdag", "dinsdag", "zaterdag", "zondag"]
+  set2:
+    ["zondag", "zaterdag", "vrijdag", "woensdag", "maandag", "donderdag", "dinsdag", "donderdag", "maandag", "zaterdag", "woensdag", "vrijdag", "dinsdag", "zondag", "woensdag", "dinsdag", "donderdag", "zondag", "maandag", "vrijdag", "zaterdag"]
+  
