@@ -1,0 +1,24 @@
+name:
+  nl: maanden-kleur
+  en: months - colour
+  se: months
+pretest:
+  - months.intro
+posttest: false
+type: grapheme
+selector: colorpicker
+cutoff: 1.0
+likert: true
+help:
+  nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij het woord hierboven.
+  en: Try to instinctively choose the color you associate, or feel fits best with the word above.
+  se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Dagen van de week-kleur synestheten zien altijd precies dezelfde kleur als ze denken aan een dag van de week. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een dag. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
+sets:
+  set1:
+    ["februari", "april", "december", "oktober", "juli", "juni", "januari", "maart", "november", "mei", "augustus", "oktober", "februari", "september", "juli", "april", "augustus", "januari", "december", "juni", "mei", "maart", "september", "november", "april", "januari", "december","oktober", "maart", "mei", "augustus", "juni", "februari", "september", "juli", "november"]
+  set2:
+    ["april", "januari", "december","oktober", "maart", "mei", "augustus", "juni", "februari", "september", "juli", "november", "februari", "april", "december", "mei", "augustus", "oktober", "oktober", "juli", "juni", "februari", "september", "juli", "april", "augustus", "januari", "januari", "maart", "november", "december", "juni", "mei", "maart", "september", "november"]
+  
