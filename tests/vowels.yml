@@ -3,6 +3,7 @@ name:
   en: vowels
   se: klinkers
 pretest:
+  - vowels.intro
   - testaudio
 posttest: false
 type: audio
