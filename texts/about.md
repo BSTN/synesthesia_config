@@ -1,8 +1,8 @@
 Welkom bij het Online Synesthesie Platform van de Radboud Universiteit — Donders Institute for Brain, Cognition and Behaviour
 
-Onze zintuigen zijn elke dag hard aan het werk om er voor te zorgen dat wij de wereld en elkaar kunnen begrijpen. Hoe dat precies werkt is bij iedereen een beetje anders. Voor sommige mensen hebben letters bijna automatisch een kleur; als dat heel consistent gebeurt noemen we dat synesthesie.
+De zintuigen werken bij iedereen een beetje anders. Soms hebben mensen synesthesie: de zintuigen werken dan op een bijzondere manier samen.
 
-Er zijn heel veel vormen van synesthesie. Je kunt bijvoorbeeld smaken ervaren voor muziek, kleuren voor klanken, vormen zoals een cirkel voor de maanden van het jaar, kleuren voor dagen van de week, of kleuren voor het eten dat je proeft, etc. Synesthesie is automatisch (je kunt het niet uitzetten) en verandert niet in de tijd. Meestal ervaren synestheten hun synesthesie als positief en verrijkt het hun waarneming. Het helpt bijvoorbeeld bij het onthouden van dingen. Soms leidt synesthesie tot overprikkeling. Bij autistische mensen komt synesthesie vaker voor. Het is nog niet bekend waarom dat zo is.
+Er zijn heel veel vormen van synesthesie - je kunt bijvoorbeeld kleuren zien voor letters of dagen van de week, of smaken proeven voor muziek, vormen zien voor tijdseenheden zoals maanden van het jaar, etc. Synesthesie is er altijd, en verandert niet in de tijd, en wordt over het algemeen als positief ervaren. Soms leidt synesthesie tot overprikkeling. Bij autistische mensen komt synesthesie vaker voor en het is niet bekend waarom dat zo is.
 
 Op deze website kun je zelftests doen voor vormen van synesthesie die vaak voorkomen. Als je vragen of opmerkingen hebt over de test of over je synesthesie, kun je via email contact opnemen met Tessa van Leeuwen: [t.vanleeuwen at donders.ru.nl](mailto:t.vanleeuwen@donders.ru.nl). Feedback is van harte welkom.
 
