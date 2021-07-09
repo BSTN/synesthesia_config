@@ -18,7 +18,7 @@ resulttext:
   en: false
 sets:
   set1:
-    ["februari", "april", "december", "oktober", "juli", "juni", "januari", "maart", "november", "mei", "augustus", "oktober", "februari", "september", "juli", "april", "augustus", "januari", "december", "juni", "mei", "maart", "september", "november", "april", "januari", "december","oktober", "maart", "mei", "augustus", "juni", "februari", "september", "juli", "november"]
+    ["februari", "april", "december", "oktober", "juli", "juni", "januari", "maart", "november", "mei  ", "augustus", "oktober", "februari", "september", "juli", "april", "augustus", "januari", "december", "juni", "mei  ", "maart", "september", "november", "april", "januari", "december","oktober", "maart", "mei  ", "augustus", "juni", "februari", "september", "juli", "november"]
   set2:
-    ["april", "januari", "december","oktober", "maart", "mei", "augustus", "juni", "februari", "september", "juli", "november", "februari", "april", "december", "mei", "augustus", "oktober", "oktober", "juli", "juni", "februari", "september", "juli", "april", "augustus", "januari", "januari", "maart", "november", "december", "juni", "mei", "maart", "september", "november"]
+    ["april", "januari", "december","oktober", "maart", "mei  ", "augustus", "juni", "februari", "september", "juli", "november", "februari", "april", "december", "mei  ", "augustus", "oktober", "oktober", "juli", "juni", "februari", "september", "juli", "april", "augustus", "januari", "januari", "maart", "november", "december", "juni", "mei  ", "maart", "september", "november"]
   
