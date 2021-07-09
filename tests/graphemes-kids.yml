@@ -14,7 +14,7 @@ help:
   en: Try to instinctively choose the color you associate, or feel fits best with the character above.
   se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
 resulttext: 
-  nl: Letter-kleur of cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  nl: Letter-kleur of cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Bij deze test krijg je 1 punt voor elke letter en elk cijfer waarvoor je 2 keer dezelfde kleur hebt gekozen. Hoeveel punten heb jij? Des te meer punten, des te meer synesthetisch je bent.
   en: false
 sets:
   set1:
