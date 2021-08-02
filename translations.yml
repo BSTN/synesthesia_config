@@ -103,4 +103,15 @@ importfile:
 giveprofilename:
   nl: "Geef dit profiel een naam (alleen voor jou zichtbaar):"
   en: "Give it a naam (only visible to you):"
-#test
+touchscreen:
+  nl: "Maak je bij deze test gebruik van een touchscreen?"
+  en: "Are you using a touchscreen for this test?"
+touchscreenoptions:
+  nl: 
+    - "Ja"
+    - "Nee"
+    - "Weet ik niet"
+  en:
+    - "Yes"
+    - "No"
+    - "I don't know"
