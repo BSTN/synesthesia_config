@@ -17,7 +17,7 @@
 </question>
 
 <question type="likert" q="5">
-  <slot>5. letters/cijfers/dagen/maanden roepen altijd heel precieze kleuren op (anders dan de kleur waarin ze zijn geprint) en er waren niet genoeg kleuren op het scherm om uit te kiezen.</slot>
+  <slot>5. Letters/cijfers/dagen/maanden roepen altijd heel precieze kleuren op (anders dan de kleur waarin ze zijn geprint) en er waren niet genoeg kleuren op het scherm om uit te kiezen.</slot>
 </question>
 
 <question type="likert" q="6">
