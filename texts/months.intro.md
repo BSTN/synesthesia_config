@@ -6,6 +6,7 @@ voor de maanden, ook als je er alleen aan denkt.
 Kies voor elke maand van het jaar de kleur die u ermee associeert, 
 of de kleur die u het beste vindt passen bij deze maand. 
 Probeer zo intuïtief mogelijk te kiezen - er is geen goed of fout antwoord.
+Kies niet te vaak grijstinten, want dan werkt de test minder goed.
 
 De test duurt ongeveer 6 minuten.
 
