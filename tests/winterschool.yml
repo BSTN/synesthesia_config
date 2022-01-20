@@ -1,0 +1,60 @@
+name:
+  nl: klinkers-kleur
+  en: vowels
+  se: klinkers
+pretest:
+  - vowels.intro
+  - testaudio
+posttest: false
+type: audio
+selector: colorpicker
+cutoff: 1.00
+likert: false
+help:
+  nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de klank die je hoort.
+  en: Try to instinctively choose the color you associate, or feel fits best with the sound you hear.
+  se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Klank-kleur synestheten zien altijd precies dezelfde kleur bij een bepaalde klank. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor één klank. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
+sets:
+  set1:
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    
+  set2:
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/10_de_o_van_zon.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+    - klinkers_rsa/07_de_aa_van_aap.mp3
+    - klinkers_rsa/08_de_a_van_jas.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+    - klinkers_rsa/04_de_e_van_pet.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/01_de_ie_van_ziek.mp3
+    - klinkers_rsa/13_de_oe_van_loep.mp3
+   
