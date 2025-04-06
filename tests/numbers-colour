@@ -1,0 +1,27 @@
+name:
+  nl: letter en cijfer-kleur
+  en: grapheme-color
+  se: grapheme-color
+pretest:
+  - grapheme_eng.intro
+posttest: false
+type: grapheme
+selector: colorpicker
+cutoff: 1.43
+likert: true
+help:
+  nl: Probeer instinctief de kleur te kiezen die je associeert of het beste vindt passen bij de letter of het cijfer hierboven.
+  en: Try to instinctively choose the color you associate, or feel fits best with the character above.
+  se: Försök att så instinktivt som möjligt välja den färg du förknippar med, eller känner passar bäst ihop.
+resulttext: 
+  nl: Letter-kleur of cijfer-kleur synestheten zien altijd precies dezelfde kleur bij een letter of cijfer. Je score op de test geeft aan of jij elke keer dezelfde kleur hebt gekozen voor een letter of cijfer. Des te lager je score, des te preciezer je kleurkeuzes, en hoe meer synesthetisch je bent.
+  en: false
+sets:
+  set1:
+    ["I", "W", "B", "C", "H", "4", "K", "N", "5", "T", "Z", "D", "M", "A", "O", "G", "0", "8", "Q", "V", "7", "F", "9", "L", "J", "2", "P", "3", "X", "6", "R", "S", "U", "Y", "E", "1", "D", "7", "N", "3", "H", "E", "L", "T", "8", "U", "Y", "P", "4", "S", "G", "6", "M", "X", "5", "Q", "2", "1", "I", "W", "A", "0", "F", "O", "B", "K", "9", "Z", "R", "C", "V", "J", "X", "P", "U", "K", "3", "N", "E", "D", "5", "R", "W", "J", "V", "G", "S", "2", "9", "M", "4", "H", "F", "6", "B", "7", "O", "I", "8", "Y", "A", "Z", "T", "1", "0", "Q", "L", "C"]
+  set2:
+    ["0", "I", "W", "7", "H", "E", "P", "B", "6", "S", "J", "R", "X", "C", "Z", "K", "5", "8", "A", "V", "N", "9", "U", "L", "2", "Q", "O", "3", "F", "D", "4", "M", "G", "Y", "T", "1", "C", "F", "5", "I", "3", "L", "Q", "X", "7", "J", "8", "B", "D", "K", "6", "9", "G", "T", "P", "H", "O", "Z", "S", "N", "W", "E", "Y", "0", "1", "R", "U", "V", "A", "4", "2", "M", "W",  "8", "Q", "9", "I", "4", "D", "R", "E", "7", "K", "2", "P", "N", "V", "T", "H", "Z", "O", "3", "1", "C", "5", "Y", "U", "S", "X", "0", "B", "M", "A", "G", "L", "J", "6", "F"]
+  set3:
+    ["W", "8", "Q", "9", "I", "4", "D", "R", "E", "7", "K", "2", "P", "N", "V", "T", "H", "Z", "O", "3", "1", "C", "5", "Y", "U", "S", "X", "0", "B", "M", "A", "G", "L", "J", "6", "F", "E", "O", "N", "1", "2", "V", "R", "3", "7", "C", "G", "W", "9", "F", "0", "U", "X", "I", "D", "B", "J", "H", "Y", "Q", "Z", "S", "6", "K", "T", "P", "A", "M", "8", "5", "4", "L", "F", "D", "U", "T", "7", "8", "I", "1", "X", "9", "V", "A", "S", "G", "2", "L", "E", "P", "6", "H", "3", "O", "W", "B", "C", "M", "K", "4", "Y", "0", "5", "J",  "R", "Q", "Z", "N"]
+  set4:
+    ["5", "J", "R", "Q", "Z", "N", "C", "M", "K", "4", "Y", "0", "6", "H", "3", "O", "W", "B", "S", "G", "2", "L", "E", "P", "I", "1", "X", "9", "V", "A", "F", "D", "U", "T", "7", "8", "A", "V", "N", "9", "U", "L", "2", "Q", "O", "3", "F", "D", "4", "M", "G", "Y", "T", "1", "0", "I", "W", "7", "H", "E", "P", "B", "6", "S", "J", "R", "X", "C", "Z", "K", "5", "8", "Q", "V", "7", "F", "9", "L", "J", "2", "P", "3", "X", "6", "R", "S", "U", "Y", "E", "1", "I", "W", "B", "C", "H", "4", "K", "N", "5", "T", "Z", "D", "M", "A", "O", "G", "0", "8"]
