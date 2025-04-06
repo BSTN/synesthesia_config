@@ -1,6 +1,6 @@
 name:
   nl: letter en cijfer-kleur
-  en: grapheme-color
+  en: numbers-colour
   se: grapheme-color
 pretest:
   - grapheme_eng.intro
